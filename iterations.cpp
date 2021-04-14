@@ -22,7 +22,6 @@ int main(){
 
     file.open("output.txt");
     file << "N,Iterations_Until_One,Iterations_Until_Less_Than_N,Base2,Base3,Base4" << endl;
-    //file << "N,Iterations_Until_One" << endl;
 
     cout << endl << "Up to which number should I analyze: ";
     cin >> n;
