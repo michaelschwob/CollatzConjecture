@@ -10,7 +10,7 @@ Schwob M.R., Shiue P., Venkat R., (2021). "Exploring the Collatz Conjecture." _I
 
 ### visualize.cpp
 
-This file generates an inverse binary tree for the Collatz conjecture in the console. This customizable, interactive interface can be used to efficiently navigate through the Collatz sequences.
+This file generates an inverse binary tree for the Collatz conjecture in the console. This customizable, interactive interface can be used to efficiently navigate through Collatz sequences.
 
 ### iterations.cpp
 
