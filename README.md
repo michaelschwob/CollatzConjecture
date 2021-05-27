@@ -16,6 +16,10 @@ This file generates an inverse binary tree for the Collatz conjecture in the con
 
 This file obtains the number of iterations until each positive, odd integer reaches 1, reaches a value less than itself, and its representation in bases 2-4.
 
+### peaks.cpp
+
+This file obtains the highest integer in the Collatz sequence for every odd integer up to some given number. It also provides each odd integer's number of iterations until 1 is reached.
+
 ## Licensing
 
 This repository is licensed under GNU GPLv3.
