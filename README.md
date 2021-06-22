@@ -22,7 +22,7 @@ This file obtains the highest integer in the Collatz sequence for every odd inte
 
 ### base4.cpp
 
-This file returns the Collatz sequence iteration by iteration in bases 4 and 10, starting with a given natural number.
+This file returns the Collatz sequence starting with a given natural number, iteration by iteration in bases 4 and 10.
 
 ## Licensing
 
