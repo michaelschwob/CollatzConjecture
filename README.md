@@ -20,6 +20,10 @@ This file obtains the number of iterations until each positive, odd integer reac
 
 This file obtains the highest integer in the Collatz sequence for every odd integer up to some given number. It also provides each odd integer's number of iterations until 1 is reached.
 
+### base4.cpp
+
+This file returns the Collatz sequence iteration by iteration in bases 4 and 10, starting with a given natural number.
+
 ## Licensing
 
 This repository is licensed under GNU GPLv3.
