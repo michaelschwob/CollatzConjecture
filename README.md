@@ -4,7 +4,7 @@ This repository contains a couple of tools to help prove the Collatz conjecture.
 
 Algorithms in this repository were used to obtain results in:
 
-Schwob M.R., Shiue P., Venkat R., (2021). "Novel Theorems and Algorithms Relating to the Collatz Conjecture." (in review).
+Schwob M.R., Shiue P., Venkat R., (2021). "Novel Theorems and Algorithms Relating to the Collatz Conjecture." _International Journal of Mathematics and Mathematical Science_, 5754439.
 
 ## Description of Each File
 
